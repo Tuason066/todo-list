@@ -2,7 +2,7 @@
 
 Hi 👋, I'm Jeffrey Tuason a Front-end Developer.
 
-- [Contact Me ](#developer)
+- [Contact Me ](#author)
 
 ## About Me
 
